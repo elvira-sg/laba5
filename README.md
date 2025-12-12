@@ -33,7 +33,7 @@
 
 ### 1. Клонирование репозитория:
 ```bash
-git clone https://github.com/your-username/BankSystem.git
+git clone https://github.com/elvira-sg/laba5
 cd BankSystem
 ```
 
